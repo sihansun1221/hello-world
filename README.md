@@ -1,2 +1,2 @@
 # hello-world
-grandma in the digital world-my first repository
+My first repository: Grandma Sun in the digital world
